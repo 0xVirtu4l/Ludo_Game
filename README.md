@@ -1,2 +1,3 @@
 # Ludo_Game
-لعبه لودو الي هتجنني
+A Uncompleted Ludo Game Using Unity 
+i didn't complete it cause i am laZy ):
